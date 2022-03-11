@@ -1,0 +1,6 @@
+# Frontend
+.env.local
+node_modules
+out
+.next
+.vercel
